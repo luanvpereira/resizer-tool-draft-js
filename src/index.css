@@ -3,3 +3,19 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+* {
+	box-sizing: border-box;
+}
+
+.editor-container {
+	border: 1px solid gray;
+	width: 500px;
+	min-height: 100px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.editor-title {
+	text-align: center;
+}
